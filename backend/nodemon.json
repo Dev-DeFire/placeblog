@@ -1,0 +1,10 @@
+{
+    "env":{
+        "DB_USER":"nitin",
+        "DB_PASSWORD": "nitin458",
+        "DB_NAME": "placeBlog",
+        "GOOGLE_API_KEY":"AIzaSyABR78ot_r-2X_ILQvyssq_92myIo70iCM",
+        "JWT_KEY":"bvnbv"
+
+    }
+}
